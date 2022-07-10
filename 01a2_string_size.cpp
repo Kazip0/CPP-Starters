@@ -25,4 +25,5 @@ int main()
     }
     cout << count << endl;
     cout << sizeof(myStr) << endl;
+    
 }
